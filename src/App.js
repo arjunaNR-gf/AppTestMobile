@@ -13,6 +13,7 @@ function App() {
   },[])
   return (
     <div className="App">
+      <h1>testing app</h1>
       <h2>{myname.name}</h2>
     </div>
   );
