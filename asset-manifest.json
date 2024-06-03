@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/arjunaNR-gf/AppTestMobile.git/static/css/main.f855e6bc.css",
-    "main.js": "/arjunaNR-gf/AppTestMobile.git/static/js/main.ecf98d96.js",
-    "static/js/453.1bab3b44.chunk.js": "/arjunaNR-gf/AppTestMobile.git/static/js/453.1bab3b44.chunk.js",
-    "static/media/logo.svg": "/arjunaNR-gf/AppTestMobile.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/arjunaNR-gf/AppTestMobile.git/index.html",
-    "main.f855e6bc.css.map": "/arjunaNR-gf/AppTestMobile.git/static/css/main.f855e6bc.css.map",
-    "main.ecf98d96.js.map": "/arjunaNR-gf/AppTestMobile.git/static/js/main.ecf98d96.js.map",
-    "453.1bab3b44.chunk.js.map": "/arjunaNR-gf/AppTestMobile.git/static/js/453.1bab3b44.chunk.js.map"
+    "main.css": "/AppTestMobile/static/css/main.f855e6bc.css",
+    "main.js": "/AppTestMobile/static/js/main.fe7af3c0.js",
+    "static/js/453.1bab3b44.chunk.js": "/AppTestMobile/static/js/453.1bab3b44.chunk.js",
+    "static/media/logo.svg": "/AppTestMobile/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/AppTestMobile/index.html",
+    "main.f855e6bc.css.map": "/AppTestMobile/static/css/main.f855e6bc.css.map",
+    "main.fe7af3c0.js.map": "/AppTestMobile/static/js/main.fe7af3c0.js.map",
+    "453.1bab3b44.chunk.js.map": "/AppTestMobile/static/js/453.1bab3b44.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.ecf98d96.js"
+    "static/js/main.fe7af3c0.js"
   ]
 }
